@@ -2,3 +2,7 @@
 .idea
 env
 py_library/py_library/__pycache__
+py_library/book/__pycache__/
+py_library/book/migrations/__pycache__/
+py_library/pyuser/__pycache__/
+py_library/pyuser/migrations/__pycache__/

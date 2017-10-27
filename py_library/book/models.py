@@ -1,6 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
-from py_library.pyuser.models import PyUser
+from pyuser.models import PyUser
 
 
 IN_MARKET = 0
